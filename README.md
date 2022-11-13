@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 )](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakudenbuzo&show_icons=true&theme=transparent)
-
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kakudenbuzo&rank=S,AAA,AA)](https://github.com/ryo-ma/github-profile-trophy)
 
